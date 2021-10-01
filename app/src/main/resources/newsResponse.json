@@ -1,0 +1,266 @@
+{
+  "status":"ok",
+  "totalResults":38,
+  "articles":[
+    {
+      "source":{
+        "id":null,
+        "name":"New York Times"
+      },
+      "author":"Benjamin Weiser",
+      "title":"Trump Sues His Niece and The New York Times Over Leaked Tax Documents - The New York Times",
+      "description":"Former President Donald J. Trump filed a lawsuit on Tuesday accusing Mary Trump and three Times reporters of conspiring to publish information about his tax records.",
+      "url":"https://www.nytimes.com/2021/09/22/nyregion/mary-trump-taxes-lawsuit.html",
+      "urlToImage":"https://static01.nyt.com/images/2021/09/22/multimedia/22dc-trump-lawsuit-02/22dc-trump-lawsuit-02-facebookJumbo.jpg",
+      "publishedAt":"2021-09-22T11:59:00Z",
+      "content":"In 2019, three Times reporters David Barstow, Susanne Craig and Russ Buettner were awarded a Pulitzer Prize for explanatory reporting for that article and others about Mr. Trumps taxes. In announcing… [+1705 chars]"
+    },
+    {
+      "source":{
+        "id":"cbs-news",
+        "name":"CBS News"
+      },
+      "author":null,
+      "title":"Gas station clerk murdered for asking a customer to wear a mask - CBS News",
+      "description":"One German politician warned of \"an inconceivable level of radicalization,\" saying the worker was killed for simply pointing out a nationwide rule.",
+      "url":"https://www.cbsnews.com/news/covid-germany-mask-murder-gas-station-attendant/",
+      "urlToImage":"https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/21/bb565088-c2f7-449a-b02f-0686a3b2ddfa/thumbnail/1200x630/108ad30401bbd8d2e526ef895c1ea5bd/germany-mask-murder-1235399530.jpg",
+      "publishedAt":"2021-09-22T11:57:11Z",
+      "content":"Berlin — Senior politicians in Germany expressed shock over the weekend killing of a young gas station clerk who asked a customer to wear a face mask, and they warned Tuesday against the radicalizati… [+2825 chars]"
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":null,
+      "title":"'It looks personal!' - Max's take on the Ben Simmons news | Keyshawn, JWill & Max - ESPN",
+      "description":null,
+      "url":"https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NXF6T3J6bk84azjSAQA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2021-09-22T11:51:30Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"cnn",
+        "name":"CNN"
+      },
+      "author":"Jack Guy, CNN Business",
+      "title":"Netflix buys rights to Roald Dahl's beloved children's stories - CNN",
+      "description":"Netflix says it has acquired the rights to Roald Dahl's stories and plans to create a \"unique universe\" of products based on them.",
+      "url":"https://www.cnn.com/2021/09/22/media/netflix-roald-dahl-deal-scli-intl/index.html",
+      "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/210922042630-roald-dahl-james-and-the-giant-peach-file-restricted-super-tease.jpg",
+      "publishedAt":"2021-09-22T11:20:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"cbs-news",
+        "name":"CBS News"
+      },
+      "author":"sophie sophie",
+      "title":"Willie Garson, who played Stanford Blatch in \"Sex and the City,\" has died at 57 - CBS News",
+      "description":"Garson, born William Garson Paszamant, played Carrie Bradshaw's gay best friend in the HBO show \"Sex and the City,\" which aired from 1998 to 2004.",
+      "url":"https://www.cbsnews.com/news/willie-garson-dies-age-57-sex-and-the-city-actor-stanford-blatch/",
+      "urlToImage":"https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/22/63ef71aa-0461-4e41-a3f5-9ef9af00fdc4/thumbnail/1200x630g2/08e3bbb086af242e48316d7a93ee93e4/ap21265005332656.jpg",
+      "publishedAt":"2021-09-22T11:16:52Z",
+      "content":"Actor Willie Garson, who played Stanford Blatch in \"Sex and the City\" and Mozzie in \"White Collar,\" has died, according to an HBO spokesperson. He was 57 years old.\r\n\"Willie Garson was in life, as on… [+2776 chars]"
+    },
+    {
+      "source":{
+        "id":"the-verge",
+        "name":"The Verge"
+      },
+      "author":"Mitchell Clark",
+      "title":"Microsoft’s 2021 Surface event: start time and how to watch - The Verge",
+      "description":"Microsoft is holding its 2021 Surface event, where it’s expected to announce new devices. Here’s when the event starts, and how you can watch it to see everything the company has in store.",
+      "url":"https://www.theverge.com/2021/9/22/22684741/microsoft-surface-event-watch-live-stream-start-time-how-to",
+      "urlToImage":"https://cdn.vox-cdn.com/thumbor/LH-i72_vjdK9oN7t2IGqeOBQ4ZM=/0x48:2532x1374/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22865786/Screen_Shot_2021_09_20_at_3.48.57_PM.png",
+      "publishedAt":"2021-09-22T11:00:00Z",
+      "content":"We expect to see many new Surface devices\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nMicrosoft is holding an online hardware event on Wednesd… [+1895 chars]"
+    },
+    {
+      "source":{
+        "id":"the-wall-street-journal",
+        "name":"The Wall Street Journal"
+      },
+      "author":"Caitlin Ostroff",
+      "title":"U.S. Stock Futures Rise as Fears Over Evergrande Ebb - The Wall Street Journal",
+      "description":"Investors are also awaiting a Federal Reserve policy update and fresh economic projections",
+      "url":"https://www.wsj.com/articles/global-stock-markets-dow-update-09-22-2021-11632296835",
+      "urlToImage":"https://images.wsj.net/im-404957/social",
+      "publishedAt":"2021-09-22T10:58:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"The Guardian"
+      },
+      "author":"Nicola Slawson",
+      "title":"First Thing: Gabby Petito’s death ruled a homicide by coroner - The Guardian",
+      "description":"Remains found near Grand Teton national park confirmed as those of the 22-year-old. Plus: America’s tiger problem",
+      "url":"https://amp.theguardian.com/us-news/2021/sep/22/first-thing-gabby-petito-death-ruled-a-homicide-by-coroner",
+      "urlToImage":"https://i.guim.co.uk/img/media/8555baec363dcd86c00f656763ff4968a88b2457/0_19_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c8cfa4e282eccb92914992f95405166",
+      "publishedAt":"2021-09-22T10:51:00Z",
+      "content":"Good morning.\r\nThe FBI has confirmed that human remains found along the border of Grand Teton national park are those of 22-year-old Gabby Petito, who disappeared while on a cross-country road trip, … [+9590 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"WTVD-TV"
+      },
+      "author":null,
+      "title":"NC Coronavirus update September 22: CDC independent panel to discuss booster shots today, FDA expected to authorize wider use - WTVD-TV",
+      "description":"The CDC panel will decide on whether the booster is needed for older adults and those at high risk for severe COVID-19.",
+      "url":"https://abc11.com/coronavirus-covid-vaccine-booster-shot/11037219/",
+      "urlToImage":"https://cdn.abcotvs.com/dip/images/6084268_COVID-19-LATEST.jpg?w=1600",
+      "publishedAt":"2021-09-22T10:26:43Z",
+      "content":"RALEIGH, N.C. -- Here's the latest news and information on COVID-19 and the COVID-19 vaccines.Wednesday morning headlines\r\nPresident Joe Biden is set to announce that the U.S. is doubling, to 1 billi… [+23782 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"CNBC"
+      },
+      "author":"Natasha Turak",
+      "title":"Iranian President Raisi lambasts U.S. at first UN speech, Biden proposes compliance to nuclear deal - CNBC",
+      "description":"The speech, delivered remotely in a pre-recorded video message late Tuesday, marked a significantly harsher tone than that of Raisi's predecessor.",
+      "url":"https://www.cnbc.com/2021/09/22/irans-raisi-lambasts-us-at-un-biden-proposes-nuclear-deal-compliance.html",
+      "urlToImage":"https://image.cnbcfm.com/api/v1/image/106900059-1624273804448-106900059-16242737262021-06-21t075836z_662170442_rc2v4o9kpxtf_rtrmadp_0_iran-election-saudi.jpg?v=1624273816",
+      "publishedAt":"2021-09-22T10:05:57Z",
+      "content":"Presidential candidate Ebrahim Raisi speaks during a campaign rally in Tehran, Iran June 15, 2021.\r\nIranian President Ebrahim Raisi ripped into the U.S. in his first U.N. speech, castigating it for i… [+3467 chars]"
+    },
+    {
+      "source":{
+        "id":"cnn",
+        "name":"CNN"
+      },
+      "author":"Ariel Edwards-Levy, CNN",
+      "title":"Fewer than one-third of Americans want to see Roe v. Wade overturned, new polling finds - CNN",
+      "description":"Fewer than one-third of Americans want to see the Roe v. Wade decision overturned, according to a set of three polls released over the past week, with key elements of Texas' restrictive new abortion law also garnering relatively little support in the polls.",
+      "url":"https://www.cnn.com/2021/09/22/politics/supreme-court-polling-roe-wade/index.html",
+      "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/210310215341-abortion-protest-file-012420-super-tease.jpg",
+      "publishedAt":"2021-09-22T10:00:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"cnn",
+        "name":"CNN"
+      },
+      "author":"Aya Elamroussi, CNN",
+      "title":"Firefighters make progress on one of California's largest blazes but face challenges with weather ahead - CNN",
+      "description":"California firefighters have made significant headway in taming one of the largest blazes in the history of the wildfire-prone state, but heat and wind are likely to persist, challenging those on the front lines of multiple fires.",
+      "url":"https://www.cnn.com/2021/09/22/weather/us-western-wildfires-wednesday/index.html",
+      "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/210922030433-03-knp-complex-fire-sequoia-national-park-california-09-18-2021-super-tease.jpg",
+      "publishedAt":"2021-09-22T09:24:00Z",
+      "content":"(CNN)California firefighters have made significant headway in taming one of the largest blazes in the history of the wildfire-prone state, but heat and wind are likely to persist, challenging those o… [+3161 chars]"
+    },
+    {
+      "source":{
+        "id":"business-insider",
+        "name":"Business Insider"
+      },
+      "author":"Marianne Guenot",
+      "title":"Why Virginia hit with severe COVID cases despite high vaccination rate - Business Insider",
+      "description":"Virginia is split along rural-urban lines, leaving much of its populace unprotected despite the top-line stats, Prof Bryan Lewis told Insider.",
+      "url":"https://www.businessinsider.com/rural-virginia-hospitalization-covid-19-political-2021-9",
+      "urlToImage":"https://i.insider.com/614a10b7c2c9630018f59e47?width=1200&format=jpeg",
+      "publishedAt":"2021-09-22T09:23:47Z",
+      "content":"Virginia is the country's 12th most vaccinated state, with almost 60% fully vaccinated.\r\nVaccination is known to greatly reduce the risk of hospitalization from COVID-19.\r\nYet, in the latest wave of … [+4568 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"New York Times"
+      },
+      "author":"Jeanna Smialek",
+      "title":"The Federal Reserve is meeting and all eyes are on its bond purchase plans. - The New York Times",
+      "description":"The Fed is expected to clearly signal that it will slow bond purchases later this year. But the meeting comes as stocks sink.",
+      "url":"https://www.nytimes.com/live/2021/09/22/business/economy-stock-market-news",
+      "urlToImage":"https://static01.nyt.com/images/2021/09/22/business/22economy-briefing-fed/22economy-briefing-fed-facebookJumbo.jpg",
+      "publishedAt":"2021-09-22T08:58:09Z",
+      "content":"Daily Business Briefing\r\nSept. 22, 2021Updated Sept. 22, 2021, 8:56 a.m. ET\r\nSept. 22, 2021, 8:56 a.m. ET\r\nThe Federal Reserve is finishing up its two-day policy meeting on Wednesday, and officials a… [+18242 chars]"
+    },
+    {
+      "source":{
+        "id":"al-jazeera-english",
+        "name":"Al Jazeera English"
+      },
+      "author":"Dr Amir Khan",
+      "title":"Has the Delta variant changed the symptoms of COVID-19? - Al Jazeera English",
+      "description":"A wider range of symptoms are associated with the Delta variant. Recognising them will help you know when to get tested.",
+      "url":"https://www.aljazeera.com/features/2021/9/22/has-the-delta-variant-changed-the-symptoms-of-covid-19",
+      "urlToImage":"https://www.aljazeera.com/wp-content/uploads/2021/09/Doctors-note-mental-health.png?resize=1200%2C630",
+      "publishedAt":"2021-09-22T08:52:11Z",
+      "content":"It has been said many times that the arrival of the Delta variant of the coronavirus has changed the course of the pandemic. It is more transmissible than previous variants and has quickly become the… [+14993 chars]"
+    },
+    {
+      "source":{
+        "id":"politico",
+        "name":"Politico"
+      },
+      "author":"Natasha Korecki, Laura Barrón-López",
+      "title":"Biden slips into political quicksand amid Haitian migrant buildup - POLITICO",
+      "description":"The president is bucking calls to stop deportations of Haitians even as his team expresses outrage over images or aggressive treatment by border agents.",
+      "url":"https://www.politico.com/news/2021/09/22/biden-haitian-migrant-513561",
+      "urlToImage":"https://static.politico.com/20/d9/7860402a41d9bbd6f9cd70263d79/09212021-ap-773.jpg",
+      "publishedAt":"2021-09-22T08:30:12Z",
+      "content":"A coalition of more than 38 civil rights and immigrant advocacy leaders sent the White House a letter Tuesday evening calling on Biden to immediately stop expulsions of Haitians, some of whom arrived… [+8713 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Tom's Guide"
+      },
+      "author":"Mark Spoonauer",
+      "title":"iPhone 13 battery life tested: All four models compared - Tom's Guide",
+      "description":"The iPhone 13 series offers a battery life boost across the board",
+      "url":"https://www.tomsguide.com/news/iphone-13-battery-life-tested-all-four-models-compared",
+      "urlToImage":"https://cdn.mos.cms.futurecdn.net/y9aDsf8tXYa52RDRFf6dNi-1200-80.jpg",
+      "publishedAt":"2021-09-22T08:00:37Z",
+      "content":"The iPhone 13 series is chock-full with improvements, from the faster new A15 Bionic processor and brighter displays to new camera features like Cinematic mode for video. But the one thing we were re… [+2740 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Bad Left Hook"
+      },
+      "author":"Scott Christ",
+      "title":"Caleb Plant needs you to know he connected on Canelo in presser fight - Bad Left Hook",
+      "description":"Caleb Plant won’t hear of the talk that he didn’t land a bit on Canelo at the presser.",
+      "url":"https://www.badlefthook.com/2021/9/22/22687423/caleb-plant-needs-you-know-he-did-connect-canelo-press-conference-fight-video-boxing-news-2021",
+      "urlToImage":"https://cdn.vox-cdn.com/thumbor/VmdgMtmUKZzOJkLm7Gfp4toPA6k=/0x376:5240x3119/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22869341/1341746547.jpg",
+      "publishedAt":"2021-09-22T08:00:00Z",
+      "content":"Caleb Plant and Canelo Alvarez got into a bit of a scrap at Tuesdays press conference in Beverly Hills, which you can watch here, resulting in one of the more talked-about early pressers in quite som… [+975 chars]"
+    },
+    {
+      "source":{
+        "id":"cnn",
+        "name":"CNN"
+      },
+      "author":"Tom Pilcher, CNN",
+      "title":"Ryder Cup gets personal: Hey! 'Golf' fans, leave those guys alone, say wives and girlfriends - CNN",
+      "description":"Amped up crowds will be bringing the noise to Whistling Straits this week at the Ryder Cup. In the past that din hasn't always been a pleasant cacophony -- the last time the biennial event was held on US shores Europe's Rory McIlroy was jeered about ex-girlfr…",
+      "url":"https://www.cnn.com/2021/09/22/golf/ryder-cup-wives-girlfriends-cmd-spt-intl/index.html",
+      "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/210921154201-angela-garcia-sergio-masters-super-tease.jpg",
+      "publishedAt":"2021-09-22T07:52:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"engadget",
+        "name":"Engadget"
+      },
+      "author":"https://www.engadget.com/about/editors/steve-dent",
+      "title":"Shareholders claim Facebook overpaid an FTC settlement to protect Zuckerberg - Engadget",
+      "description":"Facebook shareholders have filed a lawsuit alleging that board members overpaid a $5 billion FTC fine to protect Mark Zuckerberg from an individual lawsuit..",
+      "url":"https://www.engadget.com/facebook-overpaid-ftc-fine-to-protect-zuckerberg-from-lawsuit-shareholders-claim-073914785.html",
+      "urlToImage":"https://s.yimg.com/os/creatr-images/2019-11/fd9ec1c0-0013-11ea-aaf7-1d2a843fea21",
+      "publishedAt":"2021-09-22T07:41:23Z",
+      "content":"Facebook shareholders have filed a lawsuit alleging that board members overpaid on a $5 billion FTC fine to protect CEO Mark Zuckerberg from an individual lawsuit, Politico has reported. \"Zuckerberg,… [+1789 chars]"
+    }
+  ]
+}
